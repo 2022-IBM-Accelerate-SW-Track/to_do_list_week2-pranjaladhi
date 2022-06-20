@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import "./About.css";
-import "../assets/PranjalPic.jpg"
 import PranjalPic from "../assets/PranjalPic.jpg";
 
 export default class About extends Component {
@@ -21,7 +20,8 @@ export default class About extends Component {
             <div className="centered">
               <div className="name_title">Pranjal Adhikari </div>
               <div className="brief_description">
-                  I like mangos and playing tennis
+                I am currently attending UT Austin studying computer engineering. 
+                During my free time, I like eating mangos and playing tennis.
               </div>
             </div>
           </div>
